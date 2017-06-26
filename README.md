@@ -1,4 +1,4 @@
-# Sell Digital Products With Easy Digital Downloads
+# Sell Digital Products With Easy Digital Downloads through WordPress
 Easy Digital Downloads is a complete eCommerce solution for WordPress. Use it right out of the box or tailor it to your business with add-ons.
 
 ![Image](https://www.monetbil.com/support/wp-content/uploads/2017/06/header-easy-digital-downloads.png)
