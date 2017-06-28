@@ -15,6 +15,14 @@ If your site already uses Easy Digital Downloads, you can simply skip this step.
 
 http://docs.easydigitaldownloads.com/article/203-installing-from-wordpressorg
 
+Installing Easy Digital Downloads is just like any other WordPress plugin. Navigate to your WordPress “Plugins” page, inside of your WordPress dashboard, and follow these instructions:
+
+1. In the search field enter ***“Easy Digital Downloads”***. Click “Search Plugins”, or hit Enter.
+2. Select “Easy Digital Downloads and click either “Details” or “Install Now”.
+3. Once installed, click “Activate”.
+
+Easy Digital Downloads is now activated and ready to be configured.
+
 ### Install the plugin
 
 1. In your WordPress admin, navigate to ***Plugins -> Add New***.
